@@ -12,7 +12,7 @@ if int%5==0 && int%3==0
 end
 
 if int%5!=0 && int%3!=0
-  prs="nil"
+  "nil"
 end
 
 end
